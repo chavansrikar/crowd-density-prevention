@@ -1,6 +1,6 @@
 # Crowd Density & Stampede Prevention
 
-A Streamlit demo to detect crowd density and prevent stampedes using YOLOv8.
+A Streamlit demo to detect crowd density and prevent stampedes using YOLOv8 this is my  first project on opencv and vast amount of libraries
 
 ---
 
